@@ -549,7 +549,7 @@ html{
 .contacto .col .info ul li i{
     color: #1f618d;
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 footer{
     background-color: #252A2E;
